@@ -6,7 +6,8 @@ header {text-align: center;}
 h1 {text-align: center;
 	font-family: Arial;
 font-size: 40px
-vertical-align: top;}
+vertical-align: top;
+text-decoration: underline;}
  
 body {text-align: center;
 	font-family: Arial;}
